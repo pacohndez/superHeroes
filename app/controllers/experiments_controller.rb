@@ -1,4 +1,7 @@
 class ExperimentsController < ApplicationController
+  
+  layout "bootstrap"
+
   def pag1
   end
 
