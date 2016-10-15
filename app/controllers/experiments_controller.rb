@@ -9,5 +9,6 @@ class ExperimentsController < ApplicationController
   end
 
   def pag3
+  	render layout:"background"
   end
 end
